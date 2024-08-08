@@ -1,0 +1,4 @@
+mpy submodules/CircuitPython_BMA423/bma423.py bma423.mpy
+file bma423axis.lja /bin/bma423axis.lja
+file bma423axis.py /bin/bma423axis.py
+file bma423.mpy /lib/bma423.mpy

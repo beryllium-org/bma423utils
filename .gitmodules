@@ -4,3 +4,6 @@
 [submodule "submodules/CircuitMPY"]
 	path = submodules/CircuitMPY
 	url = https://github.com/beryllium-org/CircuitMPY
+[submodule "submodules/CircuitPython_BMA423"]
+	path = submodules/CircuitPython_BMA423
+	url = https://github.com/jposada202020/CircuitPython_BMA423
