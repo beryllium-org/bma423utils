@@ -7,3 +7,6 @@
 [submodule "submodules/CircuitPython_BMA423"]
 	path = submodules/CircuitPython_BMA423
 	url = https://github.com/jposada202020/CircuitPython_BMA423
+[submodule "submodules/Adafruit_CircuitPython_Register"]
+	path = submodules/Adafruit_CircuitPython_Register
+	url = https://github.com/adafruit/Adafruit_CircuitPython_Register
